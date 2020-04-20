@@ -1,0 +1,11 @@
+{
+  "name": "led",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^1.4.0",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
